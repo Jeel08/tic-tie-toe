@@ -1,0 +1,18 @@
+.box-container {
+    display:flex;
+    flex-wrap:wrap;
+    gap:1rem;
+    align-content:center;
+    margin-left:30rem;
+    width:38%;
+    cursor: pointer;
+}
+.box-style{
+    background-color:white;
+    height:8rem;
+    width:8rem;
+    border-radius:1rem
+}
+.fs {
+    font-size: 100px;
+}
